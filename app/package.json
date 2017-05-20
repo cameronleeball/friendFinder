@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "dating app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cameronleeball/friendFinder.git"
+  },
+  "author": "Cameron Ball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cameronleeball/friendFinder/issues"
+  },
+  "homepage": "https://github.com/cameronleeball/friendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
